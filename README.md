@@ -13,3 +13,8 @@ The [Teensy 3.6](https://www.pjrc.com/store/teensy36.html) from PJRC is the 'bra
 
 The change allows us to use the VUSB (5V) to charge the LiIon battery with circuitry on the Tympan. That's it! Follow the [getting started guide](https://www.pjrc.com/teensy/first_use.html) for the Teensy, and then you will be up and running with our [Tympan Library](https://github.com/Tympan/Tympan_Library) for Arduino!
 
+## Enclosure
+The Tympan Case is 3D printed, and the design files can be found [here](https://github.com/Tympan/Tympan_Rev_C_Hardware/tree/master/Enclosure) There is also a Bill of Materials that will list the screws and threaded inserts that we used. 
+
+![Tympan Case Top](Enclosure/Top.png)
+![Tympan Case Bottom](Enclosure/Bottom.png)
