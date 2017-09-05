@@ -1,10 +1,10 @@
 
 # Tympan Hardware Overview
-### Graphic Of Tympan Audio Board RevC
+## Graphic Of Tympan Audio Board RevC
 
 ![Tympan Under The Hood](images/TympanHardwareFeatures.png)
 
-### Tympan assembled with Teensy 3.6
+## Tympan assembled with Teensy 3.6
 
 ![Naked Tympan](images/TympanWithTeensy.png)
 
