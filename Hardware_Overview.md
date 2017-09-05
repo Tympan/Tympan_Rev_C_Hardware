@@ -1,6 +1,6 @@
 
 # Tympan Hardware Overview
-## Graphic Of Tympan Audio Board RevC
+## Tympan Audio Board RevC
 
 ![Tympan Under The Hood](images/TympanHardwareFeatures.png)
 
